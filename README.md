@@ -93,19 +93,19 @@ src/
 
 ### 📝 Registration Form
 
-![Registration Form](assets/screenshots/form.png)
+![Registration Form](./src/assets/screenshots/form.png)
 
 ---
 
 ### ❌ Validation Errors
 
-![Validation Errors](assets/screenshots/error.png)
+![Validation Errors](./src/assets/screenshots/error.png)
 
 ---
 
 ### ✅ Success Message
 
-![Success Message](assets/screenshots/success.png)
+![Success Message](./src/assets/screenshots/success.png)
 
 ---
 
